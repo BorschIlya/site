@@ -1,0 +1,58 @@
+.flex {
+    display: flex;
+}
+
+.first {
+    text-align: center;
+    color: #8ee3a5;
+    font-size: 2.3rem;
+}
+
+.second {
+    text-align: right;
+    color: #8ee3a5;
+    font-size: 2.3rem;
+}
+.third {
+    text-align: left;
+    color: #8ee3a5;
+    font-size: 2.3rem;
+}
+
+.name {
+    text-align: right;
+    font-size: 2.3rem;
+}
+
+hr {
+    border-top: 8px solid #8ee3a5;
+}
+
+body {
+    height: auto;
+    background-color: blanchedalmond;
+}
+
+.first-stih {
+    text-align: left;
+    width: 50%;
+}
+
+.second-stih {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.third-stih {
+    text-align: right;
+    width: 50%;
+    margin-left: 50%;
+}
+
+.footer-text {
+    text-align: right;
+    font-size: 1.6rem;
+}
+
